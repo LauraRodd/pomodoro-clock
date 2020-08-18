@@ -7,6 +7,7 @@ This project was built with React for the *Frontend Libraries* certification fro
 - React
 - CSS
 
+## View live [here](https://codepen.io/laura-rodd/full/PoZXWbz)
 ---------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
