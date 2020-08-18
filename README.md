@@ -1,3 +1,13 @@
+# Pomodoro Clock
+
+This project was built with React for the *Frontend Libraries* certification from [*FreeCodeCamp*](https://www.freecodecamp.org/)
+
+### Technologies and tools used:
+
+- React
+- CSS
+
+---------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
